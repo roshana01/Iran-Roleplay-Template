@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+	.navbar ul.nav, .navbar .btn-dark {
+		display: none;
+	}
+
+    .navbar .menu-btn {
+        display: flex;
+        flex-flow:column wrap ;
+    }
+}

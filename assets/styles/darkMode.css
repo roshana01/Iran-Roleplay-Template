@@ -1,0 +1,56 @@
+body.dark h3 {
+    color: #ffffff;
+}
+
+/* NavBar Dark style */
+
+body.dark nav {
+	background: #212529;
+}
+
+body.dark .navbar ul a:hover {
+	color: #ffffff8a;
+}
+
+body.dark nav .btn,
+body.dark .side-menu button {
+	background: #ed1b36;
+	box-shadow: 0px 5px 20px #ed1b36;
+	border: none;
+}
+
+body.dark nav ul a {
+	color: #ffffff;
+}
+
+body.dark .side-menu {
+    background-color: #4f4f4f;
+}
+
+body.dark nav .menu-btn {
+	background: #f8f9fa;
+}
+
+body.dark nav .menu-btn:hover {
+	background: #e2e2e2;
+}
+
+/* Waves Dark Style */
+body.dark .parallax > use:nth-child(1) {
+	fill: rgba(79, 79, 79, 0.7);
+}
+body.dark .parallax > use:nth-child(2) {
+	fill: rgba(79, 79, 79, 0.5);
+}
+body.dark .parallax > use:nth-child(3) {
+	fill: rgba(79, 79, 79, 0.3);
+}
+body.dark .parallax > use:nth-child(4) {
+	fill: #4f4f4f;
+}
+
+/* Section Dark Style */
+
+body.dark section {
+	background: #4f4f4f;
+}
